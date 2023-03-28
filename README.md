@@ -6,7 +6,7 @@
 
 _Тут будут контакты_
 
-Тел: 8 800 333 55 22
+_Тел: 8 800 333 55 22_
 
-Email: support@test.ru
+_Email: support@test.ru_
 
